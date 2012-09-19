@@ -1,0 +1,1 @@
+#define SKWINDOWFIX_VERSION 1
